@@ -1,0 +1,47 @@
+label,min,max,description
+Pvt,33672,41160,Private
+Cpl,56568,72444,Corporal
+MCpl,58944,74988,Master-Corporal
+Sgt,64992,80016,Sergeant
+WO,72396,84660,Warrant Officer
+MWO,79908,90360,Master Warrant Officer
+CWO,88716,102828,Chief Warrant Officer
+OCdt-A,18804,19992,Officer Cadet (ROTP)
+OCdt-B,33972,42492,Officer Cadet (OCTP-NFS)
+2LT-A,53868,54636,Second Lieutenant (ROTP)
+2LT-B,42816,54000,Second Lieutenant (OCTP-NFS)
+2LT-C,46068,69756,Second Lieutenant (DEO)
+2LT-D,58800,78996,Second Lieutenant (UTP-NCM)
+2LT-E,59508,79920,Second Lieutenant (CFR)
+LT-A,58704,70632,Lieutenant (ROTP)
+LT-B,45336,63672,Lieutenant (OCTP-NFS)
+LT-C,50640,70632,Lieutenant (DEO)
+LT-D,60384,89376,Lieutenant (UTP-NCM)
+LT-E,62712,92880,Lieutenant (CFR)
+Capt-JR,74424,85632,Captain (Junior)
+Capt-SNR,88296,98364,Captain (Senior)
+Maj,100632,112848,Major
+LCol,116628,124128,Lieutenant-Colonel
+Col,133944,149796,Colonel
+BGen,158508,171600,Brigadier-General
+MGen,181932,213696,Major-General
+LGen,233508,252804,Lieutenant-General
+Capt-JR (PLT),75432,100356,Captain (Junior); Pilot
+Capt-SNR (PLT),104280,112164,Captain (Senior); Pilot
+Maj (PLT),113364,119724,Major; Pilot
+LCol (PLT),120900,126192,Lieutenant-Colonel; Pilot
+2LT (MD),49956,57864,Second Lieutenant; Medical/Dental
+LT (MD),61824,65808,Lieutenant; Medical/Dental
+Capt (MD),128652,184956,Captain; Medical/Dental
+Maj (MD),179832,200304,Major; Medical/Dental
+Maj-S (MD),215796,240360,Major (Specialist); Medical/Dental
+LCol (MD),206640,241260,Lieutenant-Colonel; Medical/Dental
+LCol-S (MD),254904,289512,Lieutenant-Colonel (Specialist); Medical/Dental
+Col (MD),215856,254040,Colonel; Medical/Dental
+Col-S (MD),259032,304848,Colonel (Specialist); Medical/Dental
+BGen (MD),228972,269412,Brigadier-General; Medical/Dental
+Capt (LGL),76812,109584,Captain; Legal
+Maj (LGL),117312,154200,Major; Legal
+LCol (LGL),165444,174756,Lieutenant-Colonel; Legal
+Col (LGL),189636,220188,Colonel; Legal
+BGen (LGL),185988,226896,Brigadier-General; Legal

@@ -1,0 +1,96 @@
+label,min,max,description
+AS-1,48796,54575,Administrative Services
+AS-2,54374,58586,Administrative Services
+AS-3,58281,62794,Administrative Services
+AS-4,63663,68793,Administrative Services
+AS-5,76002,82171,Administrative Services
+AS-6,84658,91328,Administrative Services
+AS-7,89112,101892,Administrative Services
+AS-8,92014,108305,Administrative Services
+CM-1,32695,32695,Communications
+CM-2,36172,36172,Communications
+CM-3,39890,39890,Communications
+CM-4,44299,44299,Communications
+CM-5,47693,47693,Communications
+CM-6,54876,54876,Communications
+CM-7,60132,60132,Communications
+CR-1,33128,36601,Clerical and Regulatory
+CR-2,35958,38426,Clerical and Regulatory
+CR-3,40786,43993,Clerical and Regulatory
+CR-4,45189,48777,Clerical and Regulatory
+CR-5,49387,53466,Clerical and Regulatory
+CR-6,56214,60637,Clerical and Regulatory
+CR-7,62354,67550,Clerical and Regulatory
+CS-1,53611,69088,Computer Systems
+CS-2,66360,81222,Computer Systems
+CS-3,78333,97322,Computer Systems
+CS-4,89690,111639,Computer Systems
+CS-5,103267,134571,Computer Systems
+EC-1,48355,56214,Economics and Social Science Services
+EC-2,54101,62026,Economics and Social Science Services
+EC-3,59756,67614,Economics and Social Science Services
+EC-4,64505,74647,Economics and Social Science Services
+EC-5,77118,88764,Economics and Social Science Services
+EC-6,87128,101048,Economics and Social Science Services
+EC-7,98444,113016,Economics and Social Science Services
+EC-8,107030,122331,Economics and Social Science Services
+FI-1 ,51528,72282,Financial Management
+FI-2 ,62721,85085,Financial Management
+FI-3 ,80186,103333,Financial Management
+FI-4 ,90389,116712,Financial Management
+GT-1,40989,46141,General Technical
+GT-2,47005,53133,General Technical
+GT-3,52567,59605,General Technical
+GT-4,59227,67340,General Technical
+GT-5,66477,75584,General Technical
+GT-6,73566,84026,General Technical
+GT-7,84305,96377,General Technical
+GT-8,95636,108886,General Technical
+HR-1,54167,62272,Historical Research
+HR-2,62832,69494,Historical Research
+HR-3,71886,79575,Historical Research
+HR-4,83567,92862,Historical Research
+HR-5,90220,104143,Historical Research
+IS-1 ,48796,54575,Information Services
+IS-2 ,54374,58586,Information Services
+IS-3 ,63663,68793,Information Services
+IS-4 ,76002,82171,Information Services
+IS-5 ,84658,91328,Information Services
+IS-6 ,89112,101892,Information Services
+LA-0,36172,78970,Law
+LA-1,71734,98936,Law
+LA-2,99976,137886,Law
+LA-3,121156,152433,Law
+LA-4,136332,173177,Law
+LA-5,158057,193377,Law
+MA-1,30451,52233,Mathematics
+MA-2,53468,61900,Mathematics
+MA-3,65093,74129,Mathematics
+MA-4,77726,87630,Mathematics
+MA-5,91058,99948,Mathematics
+MA-6,101438,110707,Mathematics
+MA-7,111071,120159,Mathematics
+PE-1,49670,61788,Personnel Administration
+PE-2,62657,69545,Personnel Administration
+PE-3,70259,78094,Personnel Administration
+PE-4,78114,86824,Personnel Administration
+PE-5,87468,97458,Personnel Administration
+PE-6,92755,108099,Personnel Administration
+PG-1,41366,53479,Purchasing and Supply
+PG-2,53998,60890,Purchasing and Supply
+PG-3,60117,67801,Purchasing and Supply
+PG-4,71317,80488,Purchasing and Supply
+PG-5,83948,94300,Purchasing and Supply
+PG-6,92468,102709,Purchasing and Supply
+PM-1 ,48796,54575,Programme Administration
+PM-2 ,54374,58586,Programme Administration
+PM-3 ,58281,62794,Programme Administration
+PM-4 ,63663,68793,Programme Administration
+PM-5 ,76002,82171,Programme Administration
+PM-6 ,89112,101892,Programme Administration
+PM-7 ,92014,108305,Programme Administration
+EX-01,125700,125700,Executive
+EX-02,140700,140700,Executive
+EX-03,157500,157500,Executive
+EX-04,180600,180600,Executive
+EX-05,202500,202500,Executive
