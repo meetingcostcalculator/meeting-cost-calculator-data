@@ -1,96 +1,495 @@
 label,min,max,description
-AS-1,48796,54575,Administrative Services
-AS-2,54374,58586,Administrative Services
-AS-3,58281,62794,Administrative Services
-AS-4,63663,68793,Administrative Services
-AS-5,76002,82171,Administrative Services
-AS-6,84658,91328,Administrative Services
-AS-7,89112,101892,Administrative Services
-AS-8,92014,108305,Administrative Services
-CM-1,32695,32695,Communications
-CM-2,36172,36172,Communications
-CM-3,39890,39890,Communications
-CM-4,44299,44299,Communications
-CM-5,47693,47693,Communications
-CM-6,54876,54876,Communications
-CM-7,60132,60132,Communications
-CR-1,33128,36601,Clerical and Regulatory
-CR-2,35958,38426,Clerical and Regulatory
-CR-3,40786,43993,Clerical and Regulatory
-CR-4,45189,48777,Clerical and Regulatory
-CR-5,49387,53466,Clerical and Regulatory
-CR-6,56214,60637,Clerical and Regulatory
-CR-7,62354,67550,Clerical and Regulatory
-CS-1,53611,69088,Computer Systems
-CS-2,66360,81222,Computer Systems
-CS-3,78333,97322,Computer Systems
-CS-4,89690,111639,Computer Systems
-CS-5,103267,134571,Computer Systems
-EC-1,48355,56214,Economics and Social Science Services
-EC-2,54101,62026,Economics and Social Science Services
-EC-3,59756,67614,Economics and Social Science Services
-EC-4,64505,74647,Economics and Social Science Services
-EC-5,77118,88764,Economics and Social Science Services
-EC-6,87128,101048,Economics and Social Science Services
-EC-7,98444,113016,Economics and Social Science Services
-EC-8,107030,122331,Economics and Social Science Services
-FI-1 ,51528,72282,Financial Management
-FI-2 ,62721,85085,Financial Management
-FI-3 ,80186,103333,Financial Management
-FI-4 ,90389,116712,Financial Management
-GT-1,40989,46141,General Technical
-GT-2,47005,53133,General Technical
-GT-3,52567,59605,General Technical
-GT-4,59227,67340,General Technical
-GT-5,66477,75584,General Technical
-GT-6,73566,84026,General Technical
-GT-7,84305,96377,General Technical
-GT-8,95636,108886,General Technical
-HR-1,54167,62272,Historical Research
-HR-2,62832,69494,Historical Research
-HR-3,71886,79575,Historical Research
-HR-4,83567,92862,Historical Research
-HR-5,90220,104143,Historical Research
-IS-1 ,48796,54575,Information Services
-IS-2 ,54374,58586,Information Services
-IS-3 ,63663,68793,Information Services
-IS-4 ,76002,82171,Information Services
-IS-5 ,84658,91328,Information Services
-IS-6 ,89112,101892,Information Services
-LA-0,36172,78970,Law
-LA-1,71734,98936,Law
-LA-2,99976,137886,Law
-LA-3,121156,152433,Law
-LA-4,136332,173177,Law
-LA-5,158057,193377,Law
-MA-1,30451,52233,Mathematics
-MA-2,53468,61900,Mathematics
-MA-3,65093,74129,Mathematics
-MA-4,77726,87630,Mathematics
-MA-5,91058,99948,Mathematics
-MA-6,101438,110707,Mathematics
-MA-7,111071,120159,Mathematics
-PE-1,49670,61788,Personnel Administration
-PE-2,62657,69545,Personnel Administration
-PE-3,70259,78094,Personnel Administration
-PE-4,78114,86824,Personnel Administration
-PE-5,87468,97458,Personnel Administration
-PE-6,92755,108099,Personnel Administration
-PG-1,41366,53479,Purchasing and Supply
-PG-2,53998,60890,Purchasing and Supply
-PG-3,60117,67801,Purchasing and Supply
-PG-4,71317,80488,Purchasing and Supply
-PG-5,83948,94300,Purchasing and Supply
-PG-6,92468,102709,Purchasing and Supply
-PM-1 ,48796,54575,Programme Administration
-PM-2 ,54374,58586,Programme Administration
-PM-3 ,58281,62794,Programme Administration
-PM-4 ,63663,68793,Programme Administration
-PM-5 ,76002,82171,Programme Administration
-PM-6 ,89112,101892,Programme Administration
-PM-7 ,92014,108305,Programme Administration
-EX-01,125700,125700,Executive
-EX-02,140700,140700,Executive
-EX-03,157500,157500,Executive
-EX-04,180600,180600,Executive
-EX-05,202500,202500,Executive
+AC-01,68896,112464,Actuarial Science
+AC-02,105322,132755,Actuarial Science
+AC-03,117924,147722,Actuarial Science
+AG-01,32302,69741,Agriculture Science
+AG-02,60653,82590,Agriculture Science
+AG-03,76280,98208,Agriculture Science
+AG-04,94619,112429,Agriculture Science
+AG-05,104788,122703,Agriculture Science
+AI-01,53690,81855,Air Traffic Control
+AI-02,64698,92861,Air Traffic Control
+AI-03,77271,105458,Air Traffic Control
+AI-04,91322,118875,Air Traffic Control
+AI-05,94533,122080,Air Traffic Control
+AI-06,98568,126120,Air Traffic Control
+AI-07,104014,130573,Air Traffic Control
+AR-1,40090,59708,Architecture and Town Planning
+AR-2,63587,76337,Architecture and Town Planning
+AR-3,78026,91169,Architecture and Town Planning
+AR-4,88539,103045,Architecture and Town Planning
+AR-5,99406,115776,Architecture and Town Planning
+AR-6,110289,127641,Architecture and Town Planning
+AR-7,118994,144078,Architecture and Town Planning
+AS-1,51538,57643,Administrative Services
+AS-2,57430,61877,Administrative Services
+AS-3,61558,66324,Administrative Services
+AS-4,67241,72660,Administrative Services
+AS-5,80274,86788,Administrative Services
+AS-6,89415,96461,Administrative Services
+AS-7,94121,107619,Administrative Services
+AS-8,97186,114392,Administrative Services
+AU-1,56136,75314,Auditing
+AU-2,69820,86747,Auditing
+AU-3,80018,97221,Auditing
+AU-4,90267,109596,Auditing
+AU-5,100414,120256,Auditing
+AU-6,110189,132209,Auditing
+BI-01,32302,69741,Biological Sciences
+BI-02,60653,82590,Biological Sciences
+BI-03,76280,98208,Biological Sciences
+BI-04,94619,112429,Biological Sciences
+BI-05,104788,122703,Biological Sciences
+CAI-1,80623,89576,Civil Aviation Inspectors
+CAI-2,86161,98349,Civil Aviation Inspectors
+CAI-3,91829,107706,Civil Aviation Inspectors
+CAI-4,97362,114252,Civil Aviation Inspectors
+CAI-5,104719,122963,Civil Aviation Inspectors
+CEO-1,131200,177445,Crown Corporation CEO
+CEO-2,157200,212635,Crown Corporation CEO
+CEO-3,188500,254955,Crown Corporation CEO
+CEO-4,226000,334908,Crown Corporation CEO
+CEO-5,271000,401688,Crown Corporation CEO
+CEO-6,325300,489856,Crown Corporation CEO
+CEO-7,390300,587648,Crown Corporation CEO
+CEO-8,468100,732298,Crown Corporation CEO
+CH-01,32302,69741,Chemistry
+CH-02,60653,82590,Chemistry
+CH-03,76280,98208,Chemistry
+CH-04,94619,112429,Chemistry
+CH-05,104788,122703,Chemistry
+CM-1,31641,34533,Communications
+CM-2,36067,38205,Communications
+CM-3,39771,42132,Communications
+CM-4,44134,46790,Communications
+CM-5,46198,50373,Communications
+CM-6,50295,57961,Communications
+CM-7,55090,63511,Communications
+CO-01,56374,74160,Commerce
+CO-02,73834,105131,Commerce
+CO-03,90079,114002,Commerce
+CO-04,102645,123584,Commerce
+CR-1,34990,38658,Clerical and Regulatory
+CR-2,37978,40585,Clerical and Regulatory
+CR-3,43078,46467,Clerical and Regulatory
+CR-4,47729,51518,Clerical and Regulatory
+CR-5,52162,56471,Clerical and Regulatory
+CR-6,59373,64045,Clerical and Regulatory
+CR-7,65858,71346,Clerical and Regulatory
+CS-01,56907,73333,Computer Systems
+CS-02,70439,86213,Computer Systems
+CS-03,83147,103304,Computer Systems
+CS-04,95201,118499,Computer Systems
+CS-05,108528,141426,Computer Systems
+CX-1,61969,77764,Correctional Services
+CX-2,65655,82411,Correctional Services
+CX-3,71241,89468,Correctional Services
+CX-4,77315,97138,Correctional Services
+DA-CON-1,32731,41031,Data Conversion
+DA-CON-2,35950,41098,Data Conversion
+DA-CON-3,42246,45799,Data Conversion
+DA-CON-4,53150,57078,Data Conversion
+DA-CON-5,56382,60708,Data Conversion
+DA-CON-6,58821,63575,Data Conversion
+DA-CON-7,66719,71970,Data Conversion
+DA-CON-8,70136,75939,Data Conversion
+DA-PRO-1,27770,38562,Data Production
+DA-PRO-2,40280,42705,Data Production
+DA-PRO-3,45071,47804,Data Production
+DA-PRO-4,50187,53240,Data Production
+DA-PRO-5,55831,59247,Data Production
+DA-PRO-6,62414,66252,Data Production
+DA-PRO-7,69780,74096,Data Production
+DD-1,31080,39108,Drafting and Illustration
+DD-2,38298,48636,Drafting and Illustration
+DD-3,47127,53951,Drafting and Illustration
+DD-4,48545,59386,Drafting and Illustration
+DD-5,56799,65220,Drafting and Illustration
+DD-6,60954,70022,Drafting and Illustration
+DD-7,66203,76124,Drafting and Illustration
+DD-8,69672,80169,Drafting and Illustration
+DD-9,72759,83755,Drafting and Illustration
+DE-1,84849,109735,Dentistry
+DE-2,92138,119189,Dentistry
+DE-3,100233,129697,Dentistry
+DM-1,202500,300132,Deputy Head
+DM-2,232700,364021,Deputy Head
+DM-3,260600,407645,Deputy Head
+DM-4,291700,476909,Deputy Head
+DS-1,45900,65263,Defence Scientific Service
+DS-2,54782,72176,Defence Scientific Service
+DS-3,72176,87943,Defence Scientific Service
+DS-4,91568,119442,Defence Scientific Service
+DS-5,110640,135173,Defence Scientific Service
+DS-6,127136,144555,Defence Scientific Service
+DS-7,138457,150086,Defence Scientific Service
+EC-01,51327,59669,Economics and Social Science
+EC-02,57426,65838,Economics and Social Science
+EC-03,63428,71769,Economics and Social Science
+EC-04,68468,79234,Economics and Social Science
+EC-05,81858,94219,Economics and Social Science
+EC-06,92483,107258,Economics and Social Science
+EC-07,104494,119962,Economics and Social Science
+EC-08,113608,129848,Economics and Social Science
+ED-LAT-01,42261,83888,Language Teaching
+ED-LAT-02,47318,89228,Language Teaching
+ED-LAT-03,82809,97328,Language Teaching
+EDS-1,66636,77665,Education Services
+EDS-2,79837,84830,Education Services
+EDS-3,85205,90572,Education Services
+EDS-4,91364,96894,Education Services
+EDS-5,98481,104502,Education Services
+EDS-6,106084,112762,Education Services
+EG-1,44958,54699,Engineering and Scientific Support
+EG-2,49457,60171,Engineering and Scientific Support
+EG-3,54399,66185,Engineering and Scientific Support
+EG-4,59842,72804,Engineering and Scientific Support
+EG-5,65822,80083,Engineering and Scientific Support
+EG-6,72406,88091,Engineering and Scientific Support
+EG-7,79647,96902,Engineering and Scientific Support
+EG-8,87615,106591,Engineering and Scientific Support
+EL-01,35273,51401,Electronics
+EL-02,48516,61967,Electronics
+EL-03,53887,68804,Electronics
+EL-04,60072,73633,Electronics
+EL-05,66605,81666,Electronics
+EL-06,73506,90187,Electronics
+EL-07,80532,98333,Electronics
+EL-08,86935,105608,Electronics
+EL-09,93353,113514,Electronics
+EN-ENG-1,52383,61391,Engineering
+EN-ENG-2,66902,76479,Engineering
+EN-ENG-3,82200,99879,Engineering
+EN-ENG-4,96191,112186,Engineering
+EN-ENG-5,110187,128806,Engineering
+EN-ENG-6,122909,142690,Engineering
+EN-SUR-1,53105,75231,Land Survey
+EN-SUR-2,81936,99572,Land Survey
+EN-SUR-3,90180,109493,Land Survey
+EN-SUR-4,100110,122237,Land Survey
+EN-SUR-5,112309,135429,Land Survey
+EN-SUR-6,116246,149368,Land Survey
+ETP-1,113095,129323,Engineering Test Pilots
+ETP-2,122156,136050,Engineering Test Pilots
+EX-01,112300,151915,Executive
+EX-02,125900,170315,Executive
+EX-03,140900,190555,Executive
+EX-04,161500,239400,Executive
+EX-05,181000,268254,Executive
+FB-1,60003,66707,Border Services
+FB-2,64234,71525,Border Services
+FB-3,69486,82411,Border Services
+FB-4,75002,86408,Border Services
+FB-5,81871,94232,Border Services
+FB-6,90038,103536,Border Services
+FB-7,99802,114663,Border Services
+FB-8,111664,125381,Border Services
+FI-1,54694,76725,Financial Management
+FI-2,66576,90314,Financial Management
+FI-3,85114,109683,Financial Management
+FI-4,95945,123884,Financial Management
+FO-01,32302,81869,Forestry
+FO-02,76049,93935,Forestry
+FO-03,88834,106233,Forestry
+FO-04,99815,116290,Forestry
+FR-0,57721,61318,Firefighters
+FR-1,65994,77564,Firefighters
+FR-2,76502,81676,Firefighters
+FR-3,86826,86826,Firefighters
+FR-4,92291,92291,Firefighters
+FR-5,98460,98460,Firefighters
+FR-6,105106,105106,Firefighters
+FR-7,112228,112228,Firefighters
+FR-8,119750,119750,Firefighters
+FS-01,66843,72298,Foreign Service
+FS-02,75551,105405,Foreign Service
+FS-03,91017,117469,Foreign Service
+FS-04,110735,132769,Foreign Service
+GC-01,77800,103944,Governor in Council Appointee
+GC-02,89300,119280,Governor in Council Appointee
+GC-03,103200,137797,Governor in Council Appointee
+GC-04,118500,158245,Governor in Council Appointee
+GC-05,136100,181874,Governor in Council Appointee
+GC-06,156500,227179,Governor in Council Appointee
+GC-07,180000,261238,Governor in Council Appointee
+GC-08,206600,299862,Governor in Council Appointee
+GC-09,237700,345026,Governor in Council Appointee
+GC-10,273200,412549,Governor in Council Appointee
+GCQ-01,85900,101000,Governor in Council Appointee
+GCQ-02,98600,115900,Governor in Council Appointee
+GCQ-03,113700,133700,Governor in Council Appointee
+GCQ-04,130700,153700,Governor in Council Appointee
+GCQ-05,150200,176600,Governor in Council Appointee
+GCQ-06,183600,216000,Governor in Council Appointee
+GCQ-07,211300,248500,Governor in Council Appointee
+GCQ-08,242700,285500,Governor in Council Appointee
+GCQ-09,278900,328100,Governor in Council Appointee
+GCQ-10,328900,386900,Governor in Council Appointee
+GT-1,43292,48735,General Technical
+GT-2,49647,56118,General Technical
+GT-3,55520,62955,General Technical
+GT-4,62556,71124,General Technical
+GT-5,70213,79832,General Technical
+GT-6,77700,88748,General Technical
+GT-7,89043,101794,General Technical
+GT-8,101010,115005,General Technical
+HPS-1,88371,97831,Helicopter Pilots and Supervisors
+HPS-2,92166,102467,Helicopter Pilots and Supervisors
+HPS-3,96968,109208,Helicopter Pilots and Supervisors
+HR-1,34665,66098,Historical Research
+HR-2,66692,73765,Historical Research
+HR-3,76304,84466,Historical Research
+HR-4,88704,98569,Historical Research
+HR-5,95765,135995,Historical Research
+IS-1,51538,57643,Information Services
+IS-2,57430,61877,Information Services
+IS-3,67241,72660,Information Services
+IS-4,80274,86788,Information Services
+IS-5,89415,96461,Information Services
+IS-6,94121,107619,Information Services
+LC-01,130100,186000,Law Management
+LC-02,148600,199500,Law Management
+LC-03,171200,205000,Law Management
+LC-04,172300,210100,Law Management
+LI-1,35250,39125,Lightkeepers
+LI-2,35642,40905,Lightkeepers
+LI-3,38979,42793,Lightkeepers
+LI-4,41896,45549,Lightkeepers
+LI-5,44869,48573,Lightkeepers
+LI-6,47946,52304,Lightkeepers
+LI-7,51983,56193,Lightkeepers
+LI-8,56378,60531,Lightkeepers
+LI-9,60519,65257,Lightkeepers
+LP-00,38395,83823,Law Practitioner
+LP-01,76142,105015,Law Practitioner
+LP-02,106120,146361,Law Practitioner
+LP-03,128601,161801,Law Practitioner
+LP-04,144710,183819,Law Practitioner
+LP-05,167770,205260,Law Practitioner
+LS-1,60956,74175,Library Science
+LS-2,67408,76432,Library Science
+LS-3,78851,88981,Library Science
+LS-4,81635,96354,Library Science
+LS-5,98431,114526,Library Science
+MA-1,32002,56787,Mathematics
+MA-2,56192,67298,Mathematics
+MA-3,68410,80594,Mathematics
+MA-4,81686,95271,Mathematics
+MA-5,95696,108664,Mathematics
+MA-6,106606,120361,Mathematics
+MA-7,116729,130638,Mathematics
+MD-MOF-1,127344,164027,Medical Officer
+MD-MOF-2,157408,184875,Medical Officer
+MD-MOF-3,179718,197915,Medical Officer
+MD-MOF-4,199371,218452,Medical Officer
+MD-MOF-5,213787,253488,Medical Officer
+MD-MSP-1,185748,198129,Medical Specialist
+MD-MSP-2,207208,219719,Medical Specialist
+MD-MSP-3,218909,248433,Medical Specialist
+MT-01,32333,46582,Meteorology
+MT-02,54292,73413,Meteorology
+MT-03,73237,93057,Meteorology
+MT-04,75200,96404,Meteorology
+MT-05,82650,103850,Meteorology
+MT-06,89842,113132,Meteorology
+MT-07,97827,121661,Meteorology
+MT-08,107485,130987,Meteorology
+ND-ADV-1,70276,82072,Nutrition and Dietetics Advisor
+ND-ADV-2,79384,93541,Nutrition and Dietetics Advisor
+ND-ADV-3,88681,107611,Nutrition and Dietetics Advisor
+ND-DIT-1,67720,80824,Dietitian
+ND-DIT-2,75983,86833,Dietitian
+ND-DIT-3,81727,93666,Dietitian
+ND-DIT-4,93599,106494,Dietitian
+ND-HME-1,70590,80031,Home Economist
+ND-HME-2,75267,88023,Home Economist
+ND-HME-3,82270,96580,Home Economist
+ND-HME-4,92650,107314,Home Economist
+NU-CHN-1,71728,74645,Nursing
+NU-CHN-2,73267,84443,Nursing
+NU-CHN-3,76708,86462,Nursing
+NU-CHN-4,79318,91559,Nursing
+NU-CHN-5,83331,97047,Nursing
+NU-CHN-6,88035,104115,Nursing
+NU-CHN-7,95947,115574,Nursing
+NU-CHN-8,97228,122207,Nursing
+NU-EMA-1,74750,84571,Medical Adjudicator
+NU-EMA-2,81592,92316,Medical Adjudicator
+OE-BEO-1,26147,31006,Bookkeeping Equipment
+OE-BEO-2,32460,36470,Bookkeeping Equipment
+OE-CEO-1,26147,31006,Calculating Equipment
+OE-CEO-2,32460,36470,Calculating Equipment
+OE-CEO-3,36191,39537,Calculating Equipment
+OE-DEO-1,26147,31006,Duplicating Equipment
+OE-DEO-2,32460,36470,Duplicating Equipment
+OE-DEO-3,36191,39537,Duplicating Equipment
+OE-MEO-1,26147,31006,Microphotography Equipment
+OE-MEO-2,32460,36470,Microphotography Equipment
+OE-MEO-3,36191,39537,Microphotography Equipment
+OE-MEO-4,39561,43263,Microphotography Equipment
+OE-MEO-5,46225,50582,Microphotography Equipment
+OE-MSE-1,26147,31006,Mailing Service Equipment
+OE-MSE-2,32460,36470,Mailing Service Equipment
+OM-01,40474,55926,Organization and Methods
+OM-02,56791,64071,Organization and Methods
+OM-03,61287,74115,Organization and Methods
+OM-04,75468,85532,Organization and Methods
+OM-05,85427,96753,Organization and Methods
+OP-1,74433,93082,Occupational and Physical Therapy
+OP-2,78879,99215,Occupational and Physical Therapy
+OP-3,83669,105698,Occupational and Physical Therapy
+PC-01,35267,70309,Physical Sciences
+PC-02,68891,82590,Physical Sciences
+PC-03,83007,98777,Physical Sciences
+PC-04,96173,112997,Physical Sciences
+PC-05,108348,123271,Physical Sciences
+PE-01,52463,65261,Personnel Administration
+PE-02,66178,73453,Personnel Administration
+PE-03,74207,82482,Personnel Administration
+PE-04,82504,91703,Personnel Administration
+PE-05,92383,102935,Personnel Administration
+PE-06,97967,114174,Personnel Administration
+PG-1,43908,57475,Purchasing and Supply
+PG-2,57317,65440,Purchasing and Supply
+PG-3,63811,72869,Purchasing and Supply
+PG-4,75700,86503,Purchasing and Supply
+PG-5,89107,100095,Purchasing and Supply
+PG-6,98151,109021,Purchasing and Supply
+PH-1,83828,95344,Pharmacy
+PH-2,90151,105712,Pharmacy
+PH-3,99738,116177,Pharmacy
+PI-1-CGC,38441,56844,Grain Inspection
+PI-2-CGC,50964,60703,Grain Inspection
+PI-3-CGC,54673,65279,Grain Inspection
+PI-4-CGC,57962,71520,Grain Inspection
+PI-5-CGC,65513,78607,Grain Inspection
+PI-6-CGC,71581,86051,Grain Inspection
+PI-7-CGC,77911,93441,Grain Inspection
+PI-8-CGC,87488,102569,Grain Inspection
+PM-1,51538,57643,Programme Administration
+PM-2,57430,61877,Programme Administration
+PM-3,61558,66324,Programme Administration
+PM-4,67241,72660,Programme Administration
+PM-5,80274,86788,Programme Administration
+PM-6,94121,107619,Programme Administration
+PM-7,97186,114392,Programme Administration
+PM-MCO-1,80274,86788,Mediation Conciliation
+PM-MCO-2,94121,107619,Mediation Conciliation
+PM-MCO-3,97186,114392,Mediation Conciliation
+PM-MCO-4,112400,132200,Mediation Conciliation
+PO-IMA-01,47779,60452,Intercept Monitoring and Analysis
+PO-IMA-02,52548,66496,Intercept Monitoring and Analysis
+PO-IMA-03,59574,72483,Intercept Monitoring and Analysis
+PO-TCO-01,51673,60453,Telecommunications Operations
+PO-TCO-02,56837,66496,Telecommunications Operations
+PO-TCO-03,61961,72481,Telecommunications Operations
+PO-TCO-04,67534,79004,Telecommunications Operations
+PR(S)-1,51940,66677,Printing Operations (Supervisory) Group
+PR(S)-2,58505,75102,Printing Operations (Supervisory) Group
+PR(S)-3,65714,84354,Printing Operations (Supervisory) Group
+PR(S)-4,73600,94482,Printing Operations (Supervisory) Group
+PR(S)-5,82477,105877,Printing Operations (Supervisory) Group
+PS-1,49897,62992,Psychology
+PS-2,64348,77991,Psychology
+PS-3,78586,91620,Psychology
+PS-4,88414,103319,Psychology
+PS-5,99131,115575,Psychology
+PY-1,34360,38579,Photography
+PY-2,39247,44248,Photography
+PY-3,42782,48349,Photography
+PY-4,46167,52311,Photography
+PY-5,48717,56599,Photography
+PY-6,52193,61097,Photography
+PY-7,55630,65118,Photography
+RO-00,28690,31514,Radio Operations
+RO-01,42111,57589,Radio Operations
+RO-02,48276,60308,Radio Operations
+RO-03,53938,70284,Radio Operations
+RO-04,58285,76177,Radio Operations
+RO-04-I,62114,80164,Radio Operations (Instructor)
+RO-05,63068,82665,Radio Operations
+RO-06,69672,92226,Radio Operations
+RO-07,81009,107465,Radio Operations
+SE-REM-1,89446,117132,Research Manager
+SE-REM-2,103139,131120,Research Manager
+SE-RES-1,55870,75710,Research Scientist
+SE-RES-2,69372,107034,Research Scientist
+SE-RES-3,87671,118813,Research Scientist
+SE-RES-4,104993,131882,Research Scientist
+SE-RES-5,114962,144413,Research Scientist
+SG-PAT-01,35731,65792,Patent Examination
+SG-PAT-02,67449,74484,Patent Examination
+SG-PAT-03,71311,87677,Patent Examination
+SG-PAT-04,82780,101391,Patent Examination
+SG-PAT-05,92394,112007,Patent Examination
+SG-PAT-06,102403,122992,Patent Examination
+SG-PAT-07,106697,136098,Patent Examination
+SG-PAT-08,123217,151908,Patent Examination
+SG-SRE-01,30357,61141,Scientific Regulation
+SG-SRE-02,60746,73004,Scientific Regulation
+SG-SRE-03,66117,86110,Scientific Regulation
+SG-SRE-04,78175,95214,Scientific Regulation
+SG-SRE-05,86309,104224,Scientific Regulation
+SG-SRE-06,91122,108717,Scientific Regulation
+SG-SRE-07,97183,117436,Scientific Regulation
+SG-SRE-08,101969,123892,Scientific Regulation
+SO-INS-1,88516,116479,Ships’ Officers Instructor
+SO-INS-2,95772,126022,Ships’ Officers Instructor
+SR-CPS-1,87283,100078,Ship Repair Chargehands and Production Supervisors
+SR-MGT-02,102215,114978,Ship Repair Management
+SR-MGT-03,117188,131822,Ship Repair Management
+ST-COR-1,43057,52064,Court Reporter
+ST-COR-2,56895,65521,Court Reporter
+ST-OCE-1,33905,41662,Office Composing Equipment
+ST-OCE-2,40598,43713,Office Composing Equipment
+ST-OCE-3,44295,47888,Office Composing Equipment
+ST-SCY-1,35344,46018,Secretary
+ST-SCY-2,45101,48621,Secretary
+ST-SCY-3,46727,50752,Secretary
+ST-SCY-4,50226,54798,Secretary
+ST-STN-1,36349,43522,Stenographer
+ST-STN-2,41945,44450,Stenographer
+ST-TYP-1,37738,41290,Typist
+ST-TYP-2,39071,41477,Typist
+STUDENT-1,29250,29250,Student (Secondary School)
+STUDENT-2,30030,40209,Student (College / CEGEP)
+STUDENT-3,32156,48302,Student (Undergraduate)
+STUDENT-4,42978,54074,Student (Master's)
+STUDENT-5,50583,65481,Student (Doctorate)
+SW-CHA-1,54215,62659,Chaplain
+SW-CHA-2,61708,71376,Chaplain
+SW-CHA-3,72251,82223,Chaplain
+SW-SCW-1,51587,79979,Social Welfare
+SW-SCW-2,56962,81382,Social Welfare
+SW-SCW-3,63740,85803,Social Welfare
+SW-SCW-4,72814,85980,Social Welfare
+SW-SCW-5,86362,102402,Social Welfare
+TI-1,45382,51188,Technical Inspection
+TI-2,47836,54032,Technical Inspection
+TI-3,53639,60763,Technical Inspection
+TI-4,59050,67049,Technical Inspection
+TI-5,65928,82010,Technical Inspection
+TI-6,74065,98829,Technical Inspection
+TI-7,81531,111710,Technical Inspection
+TI-8,90501,122576,Technical Inspection
+TR-01,54921,60618,Translation
+TR-02,60053,79321,Translation
+TR-03,73621,93357,Translation
+TR-04,80739,103404,Translation
+TR-05,101205,112598,Translation
+UT-1,41507,85163,University Teaching
+UT-2,59059,105608,University Teaching
+UT-3,80908,127910,University Teaching
+UT-4,96100,152505,University Teaching
+VM-1,70028,81719,Veterinary Medicine
+VM-2,81708,94969,Veterinary Medicine
+VM-3,90078,104803,Veterinary Medicine
+VM-4,101234,114146,Veterinary Medicine
+VM-5,110966,124174,Veterinary Medicine
+WP-1,38943,55610,Welfare Programmes
+WP-2,48465,66701,Welfare Programmes
+WP-3,57587,74746,Welfare Programmes
+WP-4,65077,86150,Welfare Programmes
+WP-5,77961,97859,Welfare Programmes
+WP-6,93000,113729,Welfare Programmes
+WP-7,90036,119388,Welfare Programmes
