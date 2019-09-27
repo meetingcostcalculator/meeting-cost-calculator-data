@@ -18,3 +18,5 @@ The CSV files in this repository are the source data for [automatically-generate
 To make changes to these files, you may find it easiest to download them individually, open them with Google Sheets or Excel, update them, then contribute back the exported CSV files. If you have questions, please don't hesitate to [get in touch](https://twitter.com/sboots/)!
 
 The data included here is available via public sources or individual contributors. **It is provided on an as-is basis; no guarantees are made for its accuracy or completeness.** By contributing to this repository, you agree to make your contributions in the public domain. See the [license file](https://github.com/meetingcostcalculator/meeting-cost-calculator-data/blob/master/LICENSE) for more details.
+
+New issues are welcome! Please add these to the [original repository Issues tracker](https://github.com/sboots/meetingcostcalculator/issues).
