@@ -1,0 +1,275 @@
+label,min,max,description
+OPSEU-04104,53510,64342,Accident Claims Supervisor 1
+OPSEU-04106,59432,72988,Accident Claims Supervisor 2
+OPSEU-00990,48565,58139,Accommodation Officer 1
+OPSEU-00992,51550,61878,Accommodation Officer 2
+OPSEU-00994,53326,66285,Accommodation Officer 3
+OPSEU-13688,58745,73217,Agricultural Officer 1
+OPSEU-13690,70101,89990,Agricultural Officer 2
+OPSEU-60700,45881,55268,Agricultural Specialist 1
+OPSEU-60702,52895,63959,Agricultural Specialist 2
+OPSEU-60704,62021,78027,Agricultural Specialist 3
+OPSEU-13710,45881,55268,"Agricultural Specialist 1, Dairy"
+OPSEU-13712,52895,63959,"Agricultural Specialist 2, Dairy"
+OPSEU-14016,69052,88657,Air Quality Analyst
+OPSEU-07860,44151,53139,Archivist 1
+OPSEU-07862,52451,63370,Archivist 2
+OPSEU-07864,59222,73128,Archivist 3
+OPSEU-07870,68004,85674,Artifacts Officer
+OPSEU-07390,54148,61781,Athletics Supervisor And Dean Of Men
+OPSEU-14021,50733,61122,Biologist 1
+OPSEU-14022,58501,70745,Biologist 2A
+OPSEU-14024,63448,78372,Biologist 2B
+OPSEU-14026,69548,87727,Biologist 3 (Bargaining Unit)
+OPSEU-05312,60848,67758,Boiler Inspector
+OPSEU-05925,53313,64038,Chief Inspector Of Theatres
+OPSEU-05920,45573,54549,"Classifier 1, Board Of Censors"
+OPSEU-05922,54925,64038,"Classifier 2, Board Of Censors"
+OPSEU-05510,46374,56986,Community Development Officer 1
+OPSEU-05512,60307,76286,Community Development Officer 2
+OPSEU-05513,65484,81424,Community Development Officer 3
+OPSEU-12100,46936,56599,Community Planner 1
+OPSEU-12102,54327,65774,Community Planner 2
+OPSEU-12104,62743,78334,Community Planner 3
+OPSEU-12106,68258,86005,Community Planner 4
+OPSEU-12108,75750,98583,Community Planner 5
+OPSEU-60108,67548,83104,Contract Review Officer
+OPSEU-12111,75000,94520,"Coordinator, Landscape Architectural Services"
+OPSEU-30606,45865,54272,"Deputy 1, Administration Of Justice"
+OPSEU-30608,51433,61245,"Deputy 2, Administration Of Justice"
+OPSEU-30612,60232,72454,"Deputy Senior 1, Administration Of Justice"
+OPSEU-02281,50329,64007,Economist 1 (Bargaining Unit)
+OPSEU-02283,60278,72454,Economist 2 (Bargaining Unit)
+OPSEU-02285,66125,84437,Economist 3 (Bargaining Unit)
+OPSEU-02287,75157,98138,Economist 4 (Bargaining Unit)
+OPSEU-02289,81051,107175,Economist 5 (Bargaining Unit)
+OPSEU-07489,73859,95709,Education Adviser
+OPSEU-07081,92515,122298,Education Officer
+OPSEU-05344,62040,69320,Elevator Inspector 1
+OPSEU-05350,74049,85118,Elevator Inspector 3
+OPSEU-03519,64979,73858,Emergency Health Services Investigator
+OPSEU-05521,62652,78824,Employment Standards Auditor 1
+OPSEU-05523,72851,89579,Employment Standards Auditor 2
+OPSEU-05530,61395,76378,Employment Standards Officer 1
+OPSEU-12700,50405,60819,Engineering Officer 1
+OPSEU-12702,59078,72658,Engineering Officer 2
+OPSEU-12704,64657,81842,Engineering Officer 3
+OPSEU-12706,73585,94954,Engineering Officer 4
+OPSEU-12680,52309,63989,Engineering Services Officer 2
+OPSEU-12682,61869,77769,Engineering Services Officer 3
+OPSEU-12684,69052,88657,Engineering Services Officer 4
+OPSEU-12686,77494,101397,Engineering Services Officer 5
+OPSEU-61500,47986,56440,Environmental Officer 1
+OPSEU-61502,52783,62463,Environmental Officer 2
+OPSEU-61504,59254,70516,Environmental Officer 3
+OPSEU-61504P,63252,74514,Environmental Officer 3 (Peel)
+OPSEU-61507,72851,89579,Environmental Officer 4
+OPSEU-61509,78679,96077,Environmental Officer 5
+OPSEU-00911,47852,57269,Estate Assessor 1
+OPSEU-00913,55410,66702,Estate Assessor 2
+OPSEU-03521,58182,71440,Executive Officer 1 (Bargaining Unit)
+OPSEU-03523,66050,84224,Executive Officer 2 (Bargaining Unit)
+OPSEU-03525,78359,102231,Executive Officer 3 (Bargaining Unit)
+OPSEU-13640,47881,53343,Farm Products Inspector 1
+OPSEU-13642,54006,64796,Farm Products Inspector 2
+OPSEU-10564,48445,58095,"Field Worker 1, Homes For Special Care"
+OPSEU-20205,49906,61053,Financial Officer 1 (Bargaining Unit)
+OPSEU-20203,57294,70134,Financial Officer 2 (Bargaining Unit)
+OPSEU-20201,61983,77554,Financial Officer 3 (Bargaining Unit)
+OPSEU-20207,67963,86978,Financial Officer 4 (Bargaining Unit)
+OPSEU-20209,73228,94024,Financial Officer 5 (Bargaining Unit)
+OPSEU-20226,36627,65192,Financial Officer Trainee
+OPSEU-07417,76441,93370,Fire College Instructor
+OPSEU-05701,63988,77141,Fire Safety Officer 1
+OPSEU-05703,70870,86563,Fire Safety Officer 2
+OPSEU-05705,76378,96050,Fire Safety Officer 3
+OPSEU-05700,73381,89645,Fire Services Adviser 1
+OPSEU-05702,79089,99481,Fire Services Adviser 2
+OPSEU-05714,72851,89579,Fire Services Investigator 1
+OPSEU-05716,78679,96077,Fire Services Investigator 2
+OPSEU-13991,50733,61122,Forester 1
+OPSEU-13992,58501,70745,Forester 2A
+OPSEU-13994,63448,78372,Forester 2B
+OPSEU-13995,69548,87727,Forester 3
+OPSEU-13997,79003,101440,Forester 4
+OPSEU-13999,89304,117607,Forester 5
+OPSEU-05933,1532,1828,Fuel And Tobacco Tax Inspector
+OPSEU-14502,59842,73172,Geoscientist 1
+OPSEU-14504,63124,79617,Geoscientist 2
+OPSEU-14506,75343,96975,Geoscientist 3
+OPSEU-14508,81284,107078,Geoscientist 4
+OPSEU-07850,56002,65724,Historical Research Officer 1
+OPSEU-07852,64303,75955,Historical Research Officer 2
+OPSEU-02270,46075,55142,Housing Analyst 1
+OPSEU-02272,56205,67691,Housing Analyst 2
+OPSEU-05403,72851,89579,Human Rights Officer
+OPSEU-02891,52139,64568,Immigration Officer
+OPSEU-10512,51924,62253,Indian Development Officer
+OPSEU-12120,51737,62056,Industrial Development Officer 1
+OPSEU-12122,68041,85218,Industrial Development Officer 2
+OPSEU-12124,74797,95470,Industrial Development Officer 3
+OPSEU-95100,60745,75358,Information (Bu) Aif16
+OPSEU-95101,65616,80710,Information (Bu) Aif17
+OPSEU-02701,59678,70104,Information Officer 1
+OPSEU-02703,65649,77554,Information Officer 2
+OPSEU-02705,73570,90020,Information Officer 3
+OPSEU-02707,76234,95036,Information Officer 4
+OPSEU-12460,42394,50377,Inspector Of Signs And Buildings Permits 1
+OPSEU-12462,61882,77786,Inspector Of Signs And Buildings Permits 2
+OPSEU-12144,65426,83177,Inspector Of Surveys 2
+OPSEU-05932,47283,56611,Inspector Of Vital Statistics
+OPSEU-51074,50942,61070,Insurance Representative
+OPSEU-10101,69327,88042,Investigative Social Worker Official Guardian
+OPSEU-13796,54021,64801,"Investigator 1, Agricultural Products"
+OPSEU-05670,64876,81125,"Investigator 1, Ontario Securities Commission"
+OPSEU-05672,71971,90418,"Investigator 2, Ontario Securities Commission"
+OPSEU-00926,47112,56425,Investigator Of Estates
+OPSEU-07620,60669,76167,Language And Citizenship Training Specialist 1
+OPSEU-07602,46306,55782,"Lecturer 1, Agricultural School"
+OPSEU-07604,59720,73092,"Lecturer 2, Agricultural School"
+OPSEU-07606,67109,84435,"Lecturer 3, Agricultural School"
+OPSEU-12174,63672,80092,Legal Survey Examiner 3
+OPSEU-12176,70101,89990,Legal Survey Examiner 4
+OPSEU-02725,60039,72469,Legislative Assistant Editor
+OPSEU-07960,58724,69329,Librarian 1
+OPSEU-07962,62547,74019,Librarian 2
+OPSEU-07964,67083,79725,Librarian 3
+OPSEU-07966,78494,97740,Librarian 4
+OPSEU-12705,66692,86100,Maintenance Operation Analyst
+OPSEU-09566,44967,49979,Meat Inspector 1 (Hourly)
+OPSEU-01885,60570,75081,Neighbourhood/Functional Assessor
+OPSEU-03896,55574,68223,Northern Affairs Officer 1
+OPSEU-03898,61256,75281,Northern Affairs Officer 2
+OPSEU-09526,65273,78285,"Nursing Home Officer, Environmental Health"
+OPSEU-05473,63080,78824,Occupational Health And Safety Advisor
+OPSEU-05468,72851,89579,Occupational Health And Safety Inspector
+OPSEU-15600,69052,91830,Occupational Hygienist
+OPSEU-09532,55201,66419,"Organizer 2, X-Ray Surveys"
+OPSEU-10505,66737,79867,Parental Support Worker
+OPSEU-14160,52888,66762,Parks Planner 1
+OPSEU-14163,63124,79617,Parks Planner 2 (Bargaining Unit)
+OPSEU-14164,71704,92066,Parks Planner 3
+OPSEU-00960,63871,79839,Personalty Valuator 1
+OPSEU-15547,72479,91998,Pesticides And Terrestrial Effects Officer
+OPSEU-09600,46220,55688,Pesticides Control Officer 1
+OPSEU-09602,54375,66456,Pesticides Control Officer 2
+OPSEU-09604,60819,74210,Pesticides Control Officer 3
+OPSEU-05517,63852,69141,"Program Advisor Trainee, Early Childhood Education"
+OPSEU-05516,66398,81424,"Program Advisor, Early Childhood Education"
+OPSEU-01880,37452,47731,Property Assessor 1
+OPSEU-01882,44794,55020,Property Assessor 2
+OPSEU-01884,55718,69057,Property Assessor 3
+OPSEU-01886,1872,77256,Property Assessor 4
+OPSEU-00481,67292,86441,Provincial Prosecutor
+OPSEU-09539,50996,61145,Public Health Inspector 1
+OPSEU-09541,53174,63905,Public Health Inspector 2
+OPSEU-09547,62652,78824,Public Health Inspector 3
+OPSEU-01000,62375,75256,Real Estate Officer 1
+OPSEU-01002,65690,80378,Real Estate Officer 2
+OPSEU-01004,71521,91545,Real Estate Officer 3
+OPSEU-17142,55668,65290,Records Officer 1
+OPSEU-17144,61486,72473,Records Officer 2
+OPSEU-17140,50814,59112,Records Officer Junior
+OPSEU-05414,69919,86757,"Regional Case Co-Ordinator, Human Rights"
+OPSEU-10114,60356,76634,Rehabilitation Employment Officer
+OPSEU-10202,43577,47533,"Rehabilitation Officer 1, Health"
+OPSEU-10204,49958,59892,"Rehabilitation Officer 2, Health"
+OPSEU-10206,53326,66285,"Rehabilitation Officer 3, Health"
+OPSEU-41106,1796,2002,Resource Technician 4 - Conservation Officer
+OPSEU-41108,69404,88502,Resource Technician 5 - Conservation Officer
+OPSEU-14009,46053,55480,Resources Manager 1
+OPSEU-14011,52888,66762,Resources Manager 2
+OPSEU-14014,63124,79617,Resources Manager 3 (Bargaining Unit)
+OPSEU-14015,69052,88657,Resources Manager 4
+OPSEU-05426,47283,56611,"Returning Officer, Ontario Labour Relations Board"
+OPSEU-05994,56001,67414,Review Officer
+OPSEU-05996,65023,81317,Review Supervisor 2
+OPSEU-02850,52702,63086,Safety Instruction Officer 1
+OPSEU-02856,65184,82009,Safety Instruction Officer 2
+OPSEU-41301,43700,47288,Security Officer 1
+OPSEU-41303,45299,49316,Security Officer 2
+OPSEU-41305,47171,51032,Security Officer 3
+OPSEU-41307,48809,52787,Security Officer 4
+OPSEU-14027,79003,101440,Senior Biologist
+OPSEU-05997,70051,87613,Senior Operational Policy Officer
+OPSEU-14028,58661,75575,Senior Teacher (Ontario Science Centre)
+OPSEU-05942,51909,62326,Service Areas Inspector
+OPSEU-05940,58387,71512,Service Areas Manager
+OPSEU-30600,43111,51347,Sheriff'S Officer 1
+OPSEU-30602,48680,58324,Sheriff'S Officer 2
+OPSEU-30604,54695,65539,Sheriff'S Officer 2A
+OPSEU-10159,55860,68223,"Staff Training Officer, Community & Social Services (Bargaining Unit)"
+OPSEU-02200,45728,55022,Statistician 1
+OPSEU-02202,53099,64210,Statistician 2
+OPSEU-02204,64745,81452,Statistician 3
+OPSEU-02206,77494,101397,Statistician 4
+OPSEU-12707,71381,90351,Structural Technician
+OPSEU-01810,55410,66702,"Supervisor 1, Municipal Organization And Administration"
+OPSEU-01812,67578,85004,"Supervisor 2, Municipal Organization And Administration"
+OPSEU-01808,44991,53789,Supervisor Municipal Organization And Administration Trainee
+OPSEU-03531,61395,76378,Supervisor Of Operations (Bargaining Unit)
+OPSEU-17152,52139,62546,Systems Officer 1
+OPSEU-17154,58057,71194,Systems Officer 2
+OPSEU-17156,64747,81534,Systems Officer 3
+OPSEU-17158,69533,88867,Systems Officer 4
+OPSEU-17160,74868,96716,Systems Officer 5
+OPSEU-17162,85159,106386,Systems Officer 6
+OPSEU-17164,92679,121898,Systems Officer 7
+OPSEU-17150,41466,55364,Systems Officer Junior
+OPSEU-03301,52490,64214,Tax Auditor 1
+OPSEU-03303,58514,71626,Tax Auditor 2
+OPSEU-03305,66259,82901,Tax Auditor 3
+OPSEU-03307,72476,92756,Tax Auditor 4
+OPSEU-03309,81422,104542,Tax Auditor 5
+OPSEU-12114,79958,103808,Technical Consultant 1
+OPSEU-06080,41163,45392,"Technician 1, Fuel"
+OPSEU-06082,59159,66152,"Technician 2, Fuel"
+OPSEU-06084,62689,70210,"Technician 3, Fuel"
+OPSEU-07856,64303,75955,Toponymist
+OPSEU-02790,58166,69509,Translator 1
+OPSEU-02792,66201,82086,Translator 2
+OPSEU-02794,72122,90282,Translator 3
+OPSEU-06010,69067,88672,Transportation Compliance Program Administrator
+OPSEU-06007,65700,85770,Transportation Enforcement Investigator
+OPSEU-06001,57663,62863,Transportation Enforcement Officer 1 (T1 Salary Note)
+OPSEU-06003,64312,72572,Transportation Enforcement Officer 2 (T1 Salary Note)
+OPSEU-06005,67579,76814,Transportation Enforcement Officer 3
+OPSEU-51080,40377,46685,Travel Counsellor 1
+OPSEU-51082,45097,52459,Travel Counsellor 2
+OPSEU-51084,46382,55132,Travel Counsellor 3
+OPSEU-61512,66791,80109,Utility Plant Process & Compliance Technologist
+OPSEU-05998,69067,88672,Vehicle Inspection Administrator (T1 Salary Note)
+OPSEU-09570,56831,70169,Veterinary Scientist 1
+OPSEU-09572,62892,79087,Veterinary Scientist 2
+OPSEU-10090,58161,67533,Volunteer Services Assistant
+OPSEU-10092,65254,75962,Volunteer Services Organizer
+OPSEU-10500,54004,57345,Welfare Field Worker (Probationary)
+OPSEU-10501,56606,66023,Welfare Field Worker 1
+OPSEU-10503,61826,74268,Welfare Field Worker 2
+OPSEU-10570,63354,76067,Workers' Compensation Adviser 1
+OPSEU-10572,77929,97127,Workers' Compensation Adviser 2
+OPSEU-02293,76570,97805,Workers' Compensation Consultant
+OPSEU-50583,61231,77504,16 Social Program
+OPSEU-50586,66467,83420,17 Program Analysis
+OPSEU-50587,76168,93926,17 Personal Administration
+OPSEU-50588,67780,85069,17 Purchasing And Supply
+OPSEU-50591,69892,89806,18 Financial Administration
+OPSEU-50593,69892,89806,18 Social Program
+OPSEU-50595,73412,96615,19 Program Analysis
+OPSEU-50596,73412,96615,19 Social Program
+AMAPCEO-1,49568,63887,AMAPCEO Level 1
+AMAPCEO-2,51633,70219,AMAPCEO Level 2
+AMAPCEO-3,55764,77173,AMAPCEO Level 3
+AMAPCEO-4,62631,87564,AMAPCEO Level 4
+AMAPCEO-5,66716,96133,AMAPCEO Level 5
+AMAPCEO-6,71955,106033,AMAPCEO Level 6
+AMAPCEO-7,77450,112571,AMAPCEO Level 7
+AMAPCEO-8,87775,123717,AMAPCEO Level 8
+AMAPCEO-ACTUARY 4,62631,91533,AMAPCEO Actuary 4
+AMAPCEO-ACTUARY 5,66716,98518,AMAPCEO Actuary 5
+AMAPCEO-ACTUARY 6,71955,106033,AMAPCEO Actuary 6
+AMAPCEO-ACTUARY 7,77450,116382,AMAPCEO Actuary 7
+AMAPCEO-EDUCATION OFFICER 6,71955,124221,AMAPCEO Education Officer 6
+AMAPCEO-SR ECON OFFICER 8,87775,135229,AMAPCEO Sr Econ Officer 8
+AMAPCEO-ARBITRATOR 8,87775,137498,AMAPCEO Arbitrator 8
+AMAPCEO-SENIOR PROJECT MANAGER 7,77450,123707,AMAPCEO Senior Project Manager 7
