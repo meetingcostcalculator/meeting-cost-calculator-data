@@ -1,5 +1,5 @@
 key,name,dateUpdated,benefitFactor,primarySource,secondarySource,hideDropdownLabels,useParticipantDescriptionsOnly
-core,Core Public Service,2019-09-21,1.4,https://www.tbs-sct.gc.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp,https://www.canada.ca/en/treasury-board-secretariat/services/pay/rates-pay/rates-pay-unrepresented-senior-excluded-employees.html,0,0
+core,Federal Public Service,2019-09-21,1.4,https://www.tbs-sct.gc.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp,https://www.canada.ca/en/treasury-board-secretariat/services/pay/rates-pay/rates-pay-unrepresented-senior-excluded-employees.html,0,0
 neb,National Energy Board,2017-04-10,1,,,0,0
 cse,Communications Security Establishment,2019-04-08,1,,,0,0
 csis,Canadian Security Intelligence Service,2019-04-08,1,,,0,0
